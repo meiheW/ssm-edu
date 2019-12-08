@@ -19,8 +19,31 @@ public class UserController {
     UserService userService;
 
     @RequestMapping("/login")
-    public String login() {
-        User user = userService.findUserById();
+    public String login(){
+        System.out.println("...");
+        return "Default";
+    }
+
+    @RequestMapping("/manage")
+    public String manage(){
+        System.out.println("...");
+        return "User/UserManage";
+    }
+
+    @RequestMapping("/info")
+    public String info(){
+        return "User/UserInfo";
+    }
+
+    @RequestMapping("/edit")
+    public String edit(){
+        return "User/UserEdit";
+    }
+
+
+    @RequestMapping("/query")
+    public String query() {
+        User user = userService.findUserById(1);
         System.out.println(user);
         return user.toString();
     }

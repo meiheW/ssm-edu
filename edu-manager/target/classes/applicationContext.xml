@@ -26,13 +26,12 @@
     </bean>
 
     <!-- 配置sessionFactory -->
-    <bean class="org.mybatis.spring.SqlSessionFactoryBean" id="sqlSessionFactoryBean">
+    <bean id="sqlSessionFactoryBean" class="org.mybatis.spring.SqlSessionFactoryBean">
         <property name="dataSource" ref="dataSource"/>
         <!-- 指定配置文件位置 -->
         <!--<property name="configLocation" value="classpath:mybatis.xml"/>-->
         <!--配置别名-->
-        <property name="typeAliasesPackage" value="com.tomster.edu.model"></property>
-
+        <property name="typeAliasesPackage" value="com.tomster.edu.model"/>
         <!--配置加载映射文件 UserMapper.xml-->
         <property name="mapperLocations" value="classpath:com/tomster/edu/xml/*.xml"/>
     </bean>
@@ -52,5 +51,5 @@
         <property name="dataSource" ref="dataSource"/>
     </bean>
     <!-- 6.开启事务注解-->
-    <tx:annotation-driven></tx:annotation-driven>
+    <tx:annotation-driven/>
 </beans>

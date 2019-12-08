@@ -1,6 +1,7 @@
 package com.tomster.edu.mapper;
 
 import com.tomster.edu.model.User;
+import org.apache.ibatis.annotations.Param;
 
 /**
  * @author meihewang
@@ -8,5 +9,5 @@ import com.tomster.edu.model.User;
  */
 public interface UserMapper {
 
-    public User findById(int id);
+    public User findById(@Param("id") int id);
 }

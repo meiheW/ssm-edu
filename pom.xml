@@ -13,7 +13,6 @@
         <module>edu-dao</module>
         <module>edu-service</module>
         <module>edu-manager</module>
-        <module>edu-api</module>
     </modules>
 
 

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/edu-api/edu-api.iml" filepath="$PROJECT_DIR$/edu-api/edu-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-dao/edu-dao.iml" filepath="$PROJECT_DIR$/edu-dao/edu-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-manager/edu-manager.iml" filepath="$PROJECT_DIR$/edu-manager/edu-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-model/edu-model.iml" filepath="$PROJECT_DIR$/edu-model/edu-model.iml" />

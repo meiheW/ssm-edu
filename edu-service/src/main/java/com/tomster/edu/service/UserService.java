@@ -18,9 +18,9 @@ public class UserService {
     @Autowired
     private UserMapper userMapper;
 
-    public User findUserById(){
-        System.out.println("???...");
-        return userMapper.findById(1);
+
+    public User findUserById(int id){
+        return userMapper.findById(id);
     }
 
 }
