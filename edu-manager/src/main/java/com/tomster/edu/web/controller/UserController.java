@@ -20,24 +20,22 @@ public class UserController {
 
     @RequestMapping("/login")
     public String login(){
-        System.out.println("...");
         return "Default";
     }
 
     @RequestMapping("/manage")
     public String manage(){
-        System.out.println("...");
-        return "User/UserManage";
+        return "User/manage";
     }
 
     @RequestMapping("/info")
     public String info(){
-        return "User/UserInfo";
+        return "User/info";
     }
 
     @RequestMapping("/edit")
     public String edit(){
-        return "User/UserEdit";
+        return "User/edit";
     }
 
 
