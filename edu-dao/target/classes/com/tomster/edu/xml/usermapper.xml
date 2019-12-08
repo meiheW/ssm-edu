@@ -2,8 +2,13 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
 <mapper namespace="com.tomster.edu.mapper.UserMapper" >
 
+    <resultMap id="BaseResultMap" type="com.tomster.edu.model.User" >
+        <result column="username" property="username" />
+        <result column="password" property="password" />
+        <result column="emp_id" property="empId" />
+    </resultMap>
 
-    <select id="findById" resultType="user" parameterType="int">
+    <select id="findById" resultMap="BaseResultMap" parameterType="int">
         SELECT * FROM edu_user WHERE id = #{id}
     </select>
 </mapper>
