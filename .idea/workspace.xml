@@ -7,30 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12682875-a207-4aef-8a5d-664e1a114ede" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/edu_manager_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/edu_manager_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/edu-api/edu-api.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/edu-api/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/mapper/UserMapper.java" afterPath="$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/mapper/UserMapper.java" />
-      <change beforePath="$PROJECT_DIR$/edu-dao/target/classes/com/tomster/edu/mapper/UserMapper.class" afterPath="$PROJECT_DIR$/edu-dao/target/classes/com/tomster/edu/mapper/UserMapper.class" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/edu-manager.iml" afterPath="$PROJECT_DIR$/edu-manager/edu-manager.iml" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/pom.xml" afterPath="$PROJECT_DIR$/edu-manager/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java" afterPath="$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/edu-manager/src/main/resources/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/edu-manager/target/classes/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/classes/com/tomster/edu/web/controller/UserController.class" afterPath="$PROJECT_DIR$/edu-manager/target/classes/com/tomster/edu/web/controller/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/classes/applicationContext.xml" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/classes/com/tomster/edu/web/controller/UserController.class" afterPath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/classes/com/tomster/edu/web/controller/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/lib/edu-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/lib/edu-dao-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/lib/edu-model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/lib/edu-model-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/lib/edu-service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/lib/edu-service-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/edu-service/src/main/java/com/tomster/edu/service/UserService.java" afterPath="$PROJECT_DIR$/edu-service/src/main/java/com/tomster/edu/service/UserService.java" />
-      <change beforePath="$PROJECT_DIR$/edu-service/target/classes/com/tomster/edu/service/UserService.class" afterPath="$PROJECT_DIR$/edu-service/target/classes/com/tomster/edu/service/UserService.class" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+            <state relative-caret-position="162">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#780#781#0" expanded="true" />
@@ -60,6 +37,19 @@
                 <element signature="e#874#875#0" expanded="true" />
                 <element signature="e#912#913#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -100,24 +90,6 @@
             <state relative-caret-position="372">
               <caret line="70" column="78" lean-forward="false" selection-start-line="70" selection-start-column="74" selection-end-line="70" selection-end-column="78" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/assets/Scripts/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1516527355686" expanded="true" signature="1923:1953" ph="..." />
-                <marker date="1516527355686" expanded="true" signature="2762:2835" ph="..." />
-                <marker date="1516527355686" expanded="true" signature="3786:3864" ph="..." />
-                <marker date="1516527355686" expanded="true" signature="4343:4447" ph="..." />
-                <marker date="1516527355686" expanded="true" signature="4622:4630" ph="..." />
-                <marker date="1516527355686" expanded="true" signature="6149:6157" ph="..." />
-                <marker date="1516527355686" expanded="true" signature="7123:7227" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -702,12 +674,12 @@
       <workItem from="1575475243452" duration="4082000" />
       <workItem from="1575558893157" duration="2340000" />
       <workItem from="1575686892793" duration="17983000" />
-      <workItem from="1575743362754" duration="6927000" />
+      <workItem from="1575743362754" duration="7094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31332000" />
+    <option name="totallyTimeSpent" value="31499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2409" y="4" width="2418" height="1318" extended-state="6" />
@@ -759,14 +731,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/edu-dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/edu-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -1161,8 +1125,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        <state relative-caret-position="162">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#780#781#0" expanded="true" />
@@ -1170,6 +1134,17 @@
             <element signature="e#874#875#0" expanded="true" />
             <element signature="e#912#913#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
