@@ -1,8 +1,8 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-<meta content="郭永峰IT教育系统" name="keywords" />
-<meta content="郭永峰IT教育系统" name="description" />
+<meta content="IT教育系统" name="keywords" />
+<meta content="IT教育系统" name="description" />
 <title>教育后台管理系统</title>
 <link rel="Stylesheet" type="text/css" href="${pageContext.request.contextPath}/assets/Styles/bridging.css"/>
 <script type="text/javascript" src="${pageContext.request.contextPath}/assets/Scripts/jquery-1.7.2.min.js"></script>
@@ -16,13 +16,13 @@
 			<div class="header_top">
 				<header>
 					<div class="header_logo">
-						<h1>郭永峰IT教育后台系统</h1>
+						<h1>IT教育后台系统</h1>
 					</div>
 					<div class="header_tab">
 						<ul>
 							<li><h2 class="version"></h2></li>
 							<li><span class="header_hi">Hi,</span><span
-								class="header_usename">郭永峰</span>！</li>
+								class="header_usename"></span>！</li>
 							<li><a href="javascript:void(0)" onclick="this.href='#'">注销</a></li>
 							<li class="rel"><a href="#" class="system_infor"
 								id="system_infor" onclick="showMessageList();">系统消息(0)</a>
@@ -74,7 +74,7 @@
 		<!--====下面是页脚====-->
 		<div class="footer">
 			<footer>
-				<p>  版权所有 @ 2018 郭永峰IT教育工作室 </p>
+				<p>  版权所有 @ 2019 TOMSTER </p>
 			</footer>
 		</div>
 	</form>

@@ -8,19 +8,9 @@
   <component name="ChangeListManager">
     <list default="true" id="12682875-a207-4aef-8a5d-664e1a114ede" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java" afterPath="$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java" />
+      <change beforePath="$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/xml/usermapper.xml" afterPath="$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/xml/usermapper.xml" />
       <change beforePath="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/Default.jsp" afterPath="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/Default.jsp" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/User/UserEdit.jsp" afterPath="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/edit.jsp" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/User/UserInfo.jsp" afterPath="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/info.jsp" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/User/UserManage.jsp" afterPath="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/manage.jsp" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/User/UserUpdate.jsp" afterPath="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/update.jsp" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/classes/com/tomster/edu/web/controller/UserController.class" afterPath="$PROJECT_DIR$/edu-manager/target/classes/com/tomster/edu/web/controller/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/Modules/Default.jsp" afterPath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/Modules/Default.jsp" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/Modules/User/UserEdit.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/Modules/User/UserInfo.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/Modules/User/UserManage.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/Modules/User/UserUpdate.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/classes/com/tomster/edu/web/controller/UserController.class" afterPath="$PROJECT_DIR$/edu-manager/target/edu-manager/WEB-INF/classes/com/tomster/edu/web/controller/UserController.class" />
+      <change beforePath="$PROJECT_DIR$/edu-model/src/main/java/com/tomster/edu/model/User.java" afterPath="$PROJECT_DIR$/edu-model/src/main/java/com/tomster/edu/model/User.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,48 +28,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="29" column="2" lean-forward="false" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Default.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/Default.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="56" column="47" lean-forward="true" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+            <state relative-caret-position="205">
+              <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/EmployeeController.java">
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu-service/src/main/java/com/tomster/edu/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="319">
+              <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="info.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/mapper/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="usermapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/xml/usermapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <marker date="1575802450404" expanded="true" signature="541:580" ph="SELECT * FRO... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/info.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="303">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/edit.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="4" column="57" lean-forward="false" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -95,43 +103,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manage.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/employee/manage.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/employee/update.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="info.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/employee/info.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="67" column="49" lean-forward="true" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#522#523#0" expanded="true" />
                 <element signature="e#554#555#0" expanded="true" />
                 <element signature="e#614#615#0" expanded="true" />
@@ -145,12 +122,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manage.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/manage.jsp">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu-model/src/main/java/com/tomster/edu/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmployeeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/EmployeeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,6 +172,8 @@
       <find>mysql.version</find>
       <find>sqlSessionFactoryBean</find>
       <find>spring-test</find>
+      <find>Successfully</find>
+      <find>郭永峰</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -190,14 +192,12 @@
         <option value="$PROJECT_DIR$/edu-service/pom.xml" />
         <option value="$PROJECT_DIR$/edu-manager/src/main/java/com/yuxiu/edu/web/controller/UserController.java" />
         <option value="$PROJECT_DIR$/edu-manager/src/main/resources/springmvc.xml" />
-        <option value="$PROJECT_DIR$/edu-model/src/main/java/com/tomster/edu/model/User.java" />
         <option value="$PROJECT_DIR$/edu-manager/src/main/resources/db.properties" />
         <option value="$PROJECT_DIR$/edu-dao/src/test/java/com/tomster/edu/DaoTest.java" />
         <option value="$PROJECT_DIR$/edu-dao/pom.xml" />
         <option value="$PROJECT_DIR$/edu-manager/src/main/resources/mybatis.xml" />
         <option value="$PROJECT_DIR$/edu-manager/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/edu-manager/pom.xml" />
-        <option value="$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/xml/usermapper.xml" />
         <option value="$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/edu-service/src/main/java/com/tomster/edu/service/UserService.java" />
@@ -207,6 +207,8 @@
         <option value="$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/EmployeeController.java" />
         <option value="$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java" />
         <option value="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/employee/manage.jsp" />
+        <option value="$PROJECT_DIR$/edu-model/src/main/java/com/tomster/edu/model/User.java" />
+        <option value="$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/xml/usermapper.xml" />
         <option value="$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/Default.jsp" />
       </list>
     </option>
@@ -322,6 +324,61 @@
             <path>
               <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
               <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
               <item name="edu-manager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -419,6 +476,41 @@
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="Modules" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ssm-edu" type="b2602c69:ProjectViewProjectNode" />
@@ -711,12 +803,20 @@
       <workItem from="1575475243452" duration="4082000" />
       <workItem from="1575558893157" duration="2340000" />
       <workItem from="1575686892793" duration="17983000" />
-      <workItem from="1575743362754" duration="9696000" />
+      <workItem from="1575743362754" duration="13257000" />
     </task>
+    <task id="LOCAL-00001" summary="前端页面联调">
+      <created>1575798982499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575798982500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34101000" />
+    <option name="totallyTimeSpent" value="37662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2409" y="4" width="2418" height="1318" extended-state="6" />
@@ -732,17 +832,17 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38374126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46765736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46765736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12700228" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46678323" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3935927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39335665" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2337884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -768,7 +868,39 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -786,7 +918,6 @@
         <state relative-caret-position="330">
           <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#522#523#0" expanded="true" />
             <element signature="e#554#555#0" expanded="true" />
             <element signature="e#614#615#0" expanded="true" />
@@ -900,14 +1031,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edu-model/src/main/java/com/tomster/edu/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/edu-dao/src/test/java/com/tomster/edu/DaoTest.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.14.RELEASE/spring-tx-4.3.14.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -993,37 +1116,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/xml/usermapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding>
-            <marker date="1575741518518" expanded="true" signature="280:319" ph="SELECT * FRO... user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edu-service/src/main/java/com/tomster/edu/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/edu-manager/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -1082,14 +1174,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="204" column="0" lean-forward="false" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1098,14 +1182,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1122,39 +1198,6 @@
         <state relative-caret-position="282">
           <caret line="29" column="2" lean-forward="false" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1182,6 +1225,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/info.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="4" column="57" lean-forward="false" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu-service/src/main/java/com/tomster/edu/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="214" column="62" lean-forward="true" selection-start-line="214" selection-start-column="62" selection-end-line="214" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/employee/edit.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1190,19 +1268,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/Default.jsp">
+    <entry file="file://$PROJECT_DIR$/edu-model/src/main/java/com/tomster/edu/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="56" column="47" lean-forward="true" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+        <state relative-caret-position="180">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/xml/usermapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1575802450404" expanded="true" signature="541:580" ph="SELECT * FRO... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu-dao/src/main/java/com/tomster/edu/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/user/info.jsp">
+    <entry file="file://$PROJECT_DIR$/edu-manager/src/main/webapp/WEB-INF/Modules/Default.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="205">
+          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu-manager/src/main/java/com/tomster/edu/web/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

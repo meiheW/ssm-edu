@@ -10,6 +10,8 @@ public class User {
 
     private String password;
 
+    private int empId;
+
     public String getUsername() {
         return username;
     }
@@ -26,11 +28,20 @@ public class User {
         this.password = password;
     }
 
+    public int getEmpId() {
+        return empId;
+    }
+
+    public void setEmpId(int empId) {
+        this.empId = empId;
+    }
+
     @Override
     public String toString() {
         return "User{" +
                 "username='" + username + '\'' +
                 ", password='" + password + '\'' +
+                ", empId=" + empId +
                 '}';
     }
 }
